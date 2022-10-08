@@ -1,5 +1,5 @@
 # DMS_INE_MasterPlan
-| Name | ID_source | Institution | Type | Name Item | Indicator Code | Year range | RepLink  | Progress |
+| Name Item | ID_source | Institution | Type | Indicator Code | Year range | RepLink | Name | Progress |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
