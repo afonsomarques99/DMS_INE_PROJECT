@@ -1,0 +1,45 @@
+
+Statistical table extracted on October 15, 2022 (14:01:20)
+http://www.ine.pt
+
+
+
+Geographic localization (NUTS -2013);Average value of total standard output by agricultural holding (?) by Geographic localization (NUTS -2013) -  Decennial (1) ;
+;Data reference period;
+;2009;
+;? ;
+PT: Portugal;15199;
+1: Continente;15131,6;
+2: Região Autónoma dos Açores;25916,3;
+3: Região Autónoma da Madeira;5914;
+
+Average value of total standard output by agricultural holding (?) by Geographic localization (NUTS -2013) -  Decennial - Statistics Portugal, Agriculture census - 2019
+
+Note(s):
+(1) The estimated results do not include the situations "Don,t know / refusal".
+
+
+
+This data last updated:october 02, 2021
+
+
+Table Metadata
+
+Average value of total standard output by agricultural holding (?)
+Name;Average value of total standard output by agricultural holding (?) by Geographic localization (NUTS -2013) -  Decennial
+Regularity;Decennial
+Source;Statistics Portugal, Agriculture census - 2019
+First available period;1999
+Last available period;2019
+Dimensions
+     Dimension 1;Data reference period
+     Dimension 2;Geographic localization (NUTS -2013)
+Concepts
+     AGRICULTURAL HOLDING;Technical-economic unit that uses common production factors such as labour, machinery, facilities, land, among others, fulfilling the following four conditions: 1) yield agricultural products or maintain, in good agricultural and environmental conditions, the lands that are no longer used for productive purposes; 2) reach or exceed a certain size (in area or number of animals); 3) be subject to a single management; 4) be located in a well-defined and identifiable area.
+     REFERENCE PERIOD;The length of time for which data are collected, e.g. a specific day, month or year.
+     HOLDING´S TOTAL STANDARD OUTPUT;Holding's output value that corresponds to the sum of the different standard output values (SO) for each activity, obtained by multiplying the SO of an agricultural product by the crop hectares or by the livestock units existing on the holding.
+Definition;
+Formule;Total standard output/ Agricultural holding
+Measure unit (symbol);Euro (?)
+Power of 10;0
+Last update date;02-Oct-2021
